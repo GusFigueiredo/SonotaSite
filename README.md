@@ -12,7 +12,7 @@ A proposta é simples: reduzir tarefas operacionais e deixar mais tempo disponí
 
 Para conhecer o projeto, visualizar os recursos e acessar a versão disponível do Sonota, visite nosso site oficial:
 
-### 👉 [Acessar o site do Sonota](https://sonota-khaki.vercel.app/#)
+###  [Acessar o site do Sonota](https://sonota-khaki.vercel.app/#)
 
 ---
 
@@ -37,24 +37,8 @@ Com isso, produtores, compositores, arranjadores, músicos e estúdios podem ter
 
 ---
 
-## 🚀 Conheça o projeto
-
-A melhor forma de conhecer o Sonota é pelo site:
-
-### **[sonota-khaki.vercel.app](https://sonota-khaki.vercel.app/#)**
-
-Lá você encontra uma apresentação completa da plataforma e de seus principais recursos.
-
----
 
 ## 🧡 Harmônico
 
 O **Sonota** é um projeto da **Harmônico**, criado com foco em automação, organização e otimização de processos por meio de software e inteligência artificial.
 
----
-
-<p align="center">
-  <strong>Sonota</strong><br>
-  Gestão musical inteligente.<br><br>
-  <a href="https://sonota-khaki.vercel.app/#">Acessar o site</a>
-</p>
