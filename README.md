@@ -29,14 +29,6 @@ O Sonota reúne diferentes áreas da operação musical em uma única plataforma
 
 ---
 
-## 🎯 Objetivo
-
-O Sonota foi criado para diminuir o retrabalho e centralizar informações que normalmente ficam espalhadas entre pastas, planilhas, conversas e diferentes ferramentas.
-
-Com isso, produtores, compositores, arranjadores, músicos e estúdios podem ter uma rotina mais organizada e produtiva sem perder o foco no processo criativo.
-
----
-
 
 ## 🧡 Harmônico
 
