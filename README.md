@@ -1,6 +1,4 @@
-# 🎵 Sonota
-
-> **Menos gestão, mais música.**
+#  Sonota
 
 O **Sonota** é uma plataforma desenvolvida para ajudar profissionais da música a organizar clientes, projetos, arranjos, arquivos e informações financeiras em um só lugar.
 
@@ -8,7 +6,7 @@ A proposta é simples: reduzir tarefas operacionais e deixar mais tempo disponí
 
 ---
 
-## 🌐 Acesse o Sonota
+##  Acesse o Sonota
 
 Para conhecer o projeto, visualizar os recursos e acessar a versão disponível do Sonota, visite nosso site oficial:
 
@@ -16,7 +14,7 @@ Para conhecer o projeto, visualizar os recursos e acessar a versão disponível 
 
 ---
 
-## ✨ Principais recursos
+##  Principais recursos
 
 O Sonota reúne diferentes áreas da operação musical em uma única plataforma:
 
@@ -30,7 +28,7 @@ O Sonota reúne diferentes áreas da operação musical em uma única plataforma
 ---
 
 
-## 🧡 Harmônico
+##  Harmônico
 
 O **Sonota** é um projeto da **Harmônico**, criado com foco em automação, organização e otimização de processos por meio de software e inteligência artificial.
 
